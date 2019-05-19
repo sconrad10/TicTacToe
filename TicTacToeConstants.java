@@ -1,5 +1,5 @@
 // ==================================
-// Project: TicTacToe
+// Program: TicTacToe
 // Programmer: Sean Conrad
 // ==================================
 
