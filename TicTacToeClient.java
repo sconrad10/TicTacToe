@@ -1,6 +1,6 @@
 // ==================================
-// Project: TicTacToe Client
-// Programmer: put your name here
+// Program: TicTacToe
+// Programmer: Sean Conrad
 // ==================================
 
 package com.sconrad;
