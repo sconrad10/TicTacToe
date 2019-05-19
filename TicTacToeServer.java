@@ -1,5 +1,5 @@
 // ==================================
-// Program: TicTacToe Server
+// Program: TicTacToe
 // Programmer: Sean Conrad
 // ==================================
 
